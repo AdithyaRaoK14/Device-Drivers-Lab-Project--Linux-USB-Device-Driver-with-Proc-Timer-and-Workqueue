@@ -1,0 +1,5 @@
+0x8eb863b6	ddk_led_ctrl	ddk_led	EXPORT_SYMBOL	
+0xf1d85422	ddk_ext_on_write_success	ddk_mem_drv	EXPORT_SYMBOL	
+0x88758311	ddk_ext_on_write_fail	ddk_mem_drv	EXPORT_SYMBOL	
+0x7915626a	ddk_ext_init	ddk_mem_drv	EXPORT_SYMBOL	
+0x88758311	ddk_ext_cleanup	ddk_mem_drv	EXPORT_SYMBOL	
