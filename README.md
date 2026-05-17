@@ -10,21 +10,6 @@ A user-space application is developed to communicate with the kernel module usin
 
 ---
 
-## Team Members
-
-| Name | Registration Number | Branch |
-|------|-------------------|--------|
-| Adithya Rao Kalathur | 251100610012 | M.E. CSE |
-| Harshith Nagaraj | 251100610023 | M.E. CSE |
-| Harish Kumar D | 251100610006 | M.E. CSE |
-| Vaibhav V Acharya | 251100610040 | M.E. CSE |
-
-**Subject:** Device Drivers
-
----
-
-
-
 ## Objectives
 
 - Implement a **proc filesystem interface** (`/proc/ddk_usb_status`) for bidirectional user-kernel communication
