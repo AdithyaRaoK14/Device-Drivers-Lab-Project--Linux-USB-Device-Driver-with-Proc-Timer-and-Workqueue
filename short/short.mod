@@ -1,0 +1,2 @@
+/home/msois/Desktop/ldd4-master/short/short.o
+
